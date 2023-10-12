@@ -1,6 +1,6 @@
 ### Hello! ^^
 - This github is my area for my education 
-- For save code file or my projects for educatoin.
+- For save my code file or my projects for education.
 <!--
 
 **Kkirari/Kkirari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
