@@ -1,6 +1,12 @@
 ### Hello! ^^
 - This github is my area for my education 
 - For save my code file or my projects for education.
+
+- Mypresent Projects is 1.Portfolio Website
+                        2.RVC Voice changer project
+                        3.Mobile calculator app
+- contect : 0994645859(+66)
+  Email : kissanapung.yaset@gmail.com
 <!--
 
 **Kkirari/Kkirari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
